@@ -12,7 +12,7 @@ You'll need a GitHub account to interact with issues. If you want to learn more 
 
 ## Make edits
 
-If you want to directly make edits and suggestions to the curriculum, you'll need create a GitHub account and learn about GitHub. To learn the basics of GitHub, read [this tutorial](https://guides.github.com/activities/hello-world/). The tutorial will teach you what you need to contribute to the curriculum.
+If you want to make and share edits to the curriculum description, you'll need create a GitHub account and learn about GitHub. To learn the basics of GitHub, read [this tutorial](https://guides.github.com/activities/hello-world/). The tutorial will teach you what you need to contribute to the curriculum.
 
 In order to make modifications, you need to "fork" this repository. Learn about forking [here](https://guides.github.com/activities/forking/). You may then use the skills learned in the first tutorial to edit the README right in the GitHub web interface. Once you've made your edits, open a pull request. We will use the pull request to continue the discussion.
 
