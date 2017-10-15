@@ -1,6 +1,6 @@
 # BIOENG 0056 / BIOENG 2156 Curriculum Prototyping
 
-The document below describes the ideas for a University of Pittsburgh "Workshop in Prototyping 2" for graduate bioengineering students. Pull requests are welcome!
+The document below describes the ideas for a University of Pittsburgh "Workshop in Prototyping 2" for graduate bioengineering students. Please see [CONTRIBUTING.md](CONTRIBUTING.md) to participate.
 
 ## Goals
 
