@@ -1,6 +1,6 @@
 # Contributing
 
-My hope is that this curriculum is developed completely in the open. All stakeholders -- future students, current students, and faculty -- will feel free to propose changes and know why certain decisions were made. As an interface to a version control system, GitHub provides tools that enable open development with history tracking and decision accountability.
+My hope is that this curriculum is developed completely in the open. All stakeholders -- future students, current students, and faculty -- will feel free to propose changes and know why certain decisions were made. Moreover, others should feel free to take and adapt the ideas. As an interface to a version control system, GitHub provides tools that enable open development with history tracking and decision accountability.
 
 ## Getting started
 
