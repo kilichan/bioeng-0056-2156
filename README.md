@@ -1,4 +1,4 @@
-# BIOENG 0056 / BIOENG 2156 Curriculum Prototyping
+# BIOENG 0056 / BIOENG 2156 Syllabus Prototyping
 
 The document below describes the ideas for a University of Pittsburgh "Workshop in Prototyping 2" for graduate bioengineering students. Please see [CONTRIBUTING.md](CONTRIBUTING.md) to participate.
 
@@ -60,3 +60,27 @@ In cost- or power-constrained embedded systems, or for systems requiring determi
 
 Students are introduced to the Arduino and C programming. The workshop draws parallels to the RPi and Python with a focus on low-level software development. Topics include an introduction to C, data type sizes and memory allocation, and a dive into the Arduino programming environment. Upon completion, students will be able to write simple Arduino programs and understand online resources for C and Arduino programming.
 
+
+### 8. Exploring the Python ecosystem
+
+Python is used in a variety of applications, from data processing and machine learning to network and graphical application development. It is natural for an ecosystem of libraries to spawn from such popularity. Indeed, there are Python libraries for nearly all types of domains. Using well-established software libraries allows you to focus on the problem at hand, rather than worry about the ancillary complexities that come with the problem you're solving. However, using a library requires understanding how it is used and how it may change in the future.
+
+The workshop dives into some notable Python libraries for data processing, machine learning, web servers, and persistent data storage. Students will have the opportunity to seek out libraries that may help them solve problems of their interest. The workshop will also focus on the comprehension of software documentation and the importance of software versioning semantics.
+
+### 9. Software development for medical devices
+
+Medical devices are developed under highly-controlled processes, and _software_ for medical devices is no different. When developing software for medical devices, it is necessary to follow a software life cycle process that is approved by the regulatory entities. The international standard IEC 62304 defines a software development lifecycle process for medical devices favored by the FDA and EMA. IEC 62304 notably describes the need for software requirements analysis, software design documentation, and software testing. IEC 62304 guides software teams large and small at notable medical device companies.
+
+The workshop touches on the design of software following IEC 62304 with examples drawn from the lecturer's experience. Topics focus on defining software requirements, the difference between architecture and detailed design documentation, and the various types of software testing including unit, integration, and system testing. Although the standard cannot be completely covered in one sitting, students will gain insight into the processes surrounding medical device software development. Students will have the opportunity to practice the process in future workshops.
+
+### 10. Agile software development with Scrum
+
+Software projects -- medical device software projects notwithstanding -- need a development approach that can adapt to changing requirements, keep stakeholders in the loop, and deliver working software in time and at budget. The Agile approach, as described in the Agile manifesto, focuses on iterative software development, continuous delivery, and consistent feedback from end-users. The Agile mindest is not unlike the mindset learned in medical product ideation, but with emphasis on software development activities.
+
+The workshop focuses on the key activities of Agile software development with a focus on Scrum, a framework for managing software development. The discussion compares the Agile approach to a typical "waterfall" approach and explores how Agile practices may be used when creating software for medical devices. Upon completing the workshop, students should feel comfortable creating user stories and planning sprints based on product owner priorities.
+
+### Remaining weeks: full-class project
+
+Why learn all of this and never use it? The rest of the semester will be devoted to a project to which all students contribute. As a unified software team, we will design a system for patient ambulatory monitoring. Students will use their knowledge of embedded systems, sensors, and Python / C to create a wireless sensor platform for movement and orientation detection. Multiple sensors will be required to interface a patient portal that can detect, in real-time, whether or not the patient is walking. Not only will the system display the data in real-time to a caregiver, it will also save the data for later review by a caregiver.
+
+The project will use a single Git repository to maintain documentation, software, and test plans and results. All students will contribute to the single repository. Students will self-organize into functional teams then follow Agile practices in the development of the software system. Students will be expected to document the requirements, hazards and risks, architecture, and detailed design of the system. Students will also develop automated and / or manual tests to prove software correctness. In-class time will be devoted to a brief Scrum planning session, followed by in-class time to work on the project with instructor guidance.
