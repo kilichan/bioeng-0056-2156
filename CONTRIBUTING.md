@@ -17,3 +17,7 @@ If you want to make and share edits to the syllabus, you'll need to create a Git
 In order to make modifications, you need to "fork" this repository. Learn about forking [here](https://guides.github.com/activities/forking/). You may then use the skills learned in the first tutorial to edit the README right in the GitHub web interface. Once you've made your edits, open a pull request. We will use the pull request to continue the discussion. Ask me for permission to directly edit to this repository.
 
 The text is written in Markdown. Learn about Markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+### License
+
+Content is licensed under Creative Commons Attribution Share Alike 4.0. Source code and software is licensed GPLv3. Please understand that your contributions will be accepted under the terms of the licenses.
